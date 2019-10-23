@@ -139,7 +139,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### J
 
-### **JabRef**
+#### **JabRef**
 
 - **Swag**: Sticker, T-shirt
 - **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
